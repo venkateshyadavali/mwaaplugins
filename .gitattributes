@@ -1,1 +1,2 @@
 plugins.zip filter=lfs diff=lfs merge=lfs -text
+plugins_1.tar.gz filter=lfs diff=lfs merge=lfs -text
